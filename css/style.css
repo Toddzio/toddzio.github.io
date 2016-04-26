@@ -48,10 +48,14 @@ ul {
 }
 
 .side {
-	display: inline-block;
+	/*display: inline-block;*/
 	width: 50%;
+	position: absolute;
+	left: 0;
+	right: 0;
+
 }
 .right {
 	float: right;
-	display: none;
+	/*display: none;*/
 }

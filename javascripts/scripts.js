@@ -1,8 +1,11 @@
 $(document).ready(function() {
 	$(document.body).one("click",function() {
 	  $('#photo').animate({
-	  	right: 400
+	  	right: '50%'
 	  }, 3500, function(){});
+	  $(".hidden").fadeOut("slow", function() {
+    $(this).removeClass("loader");
+	});
 	  $( ".hidden" ).css('visibility','visible').hide().fadeIn(7000);
 
 	});
