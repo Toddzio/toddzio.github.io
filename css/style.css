@@ -46,3 +46,12 @@ ul {
 .hidden {
 	visibility:  hidden;
 }
+
+.side {
+	display: inline-block;
+	width: 50%;
+}
+.right {
+	float: right;
+	display: none;
+}
