@@ -66,6 +66,19 @@ ul {
 }
 
 .footer {
+	padding-top: 50px;
 	clear: both;
     height: 155px; /* .push must be the same height as .footer */
+}
+
+.slick-next {
+	right: 0;
+}
+.slick-next:before {
+	color: red;
+	content: ">";
+}
+.slick-prev:before {
+	color: red;
+	content: "<";
 }
