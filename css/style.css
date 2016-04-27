@@ -65,3 +65,7 @@ ul {
 	float: right;
 	/*display: none;*/
 }
+
+.footer, .push {
+    height: 155px; /* .push must be the same height as .footer */
+}
