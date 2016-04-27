@@ -69,6 +69,7 @@ ul {
 	/*display: none;*/
 }
 
-.footer, .push {
+.footer, {
+	clear: both;
     height: 155px; /* .push must be the same height as .footer */
 }
