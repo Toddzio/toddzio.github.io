@@ -82,3 +82,6 @@ ul {
 	color: red;
 	content: "<";
 }
+a {
+	width: auto;
+}
