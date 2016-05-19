@@ -89,10 +89,12 @@
 }
 .slick-prev:before
 {
+    color: #3c6c76;
     content: '<';
 }
 [dir='rtl'] .slick-prev:before
 {
+    color: #3c6c76;
     content: '>';
 }
 

@@ -11,13 +11,13 @@ h1 {
 }
 h2 {
 	text-align: center;
-	color: #D7604D;
+	color: #3c6c76;
 	font-family: 'Lato', sans-serif; font-weight: 900;
 	margin-top: 30px;
   font-size: 38px;
 }
 p {
-	color: #F79C3E;
+	color: #3c6c76;
 	font-size: 18px;
 }
 ul {
@@ -97,7 +97,7 @@ ul {
 }
 
 .slider{
-  margin: 30px auto 0px;
+  margin: 15px auto 0px;
   width: 80%;
   padding: 20px;
 }
